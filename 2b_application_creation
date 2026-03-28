@@ -3,4 +3,3 @@ import ok
 
 python tmp_emotion_test.py
 import ok
-function error: ConnectTimeout HTTPSConnectionPool(host='sn-watson-emotion.labs.skills.network', port=443): Max retries exceeded with url: /v1/watson.runtime.nlp.v1/NlpService/EmotionPredict (Caused by ConnectTimeoutError(<HTTPSConnection(host='sn-watson-emotion.labs.skills.network', port=443) at 0x2364ce63620>, 'Connection to sn-watson-emotion.labs.skills.network timed out. (connect timeout=15)'))
